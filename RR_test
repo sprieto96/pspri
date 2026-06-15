@@ -15,17 +15,11 @@ end  %[output:group:55f5bd43]
 %% R-Peak differences/ np.where(rpeaks['ECG_R_Peaks']values==1)[0]
 % Compute RR intervals in sec %%
 
-
-
-
-
-
-
 %[appendix]{"version":"1.0"}
 %---
 %[metadata:view]
 %   data: {"layout":"onright"}
 %---
 %[output:2e288cf2]
-%   data: {"dataType":"text","outputData":{"text":"Loaded: S002-RAPD-00008-T010-20_interp_4Hz.mat\n","truncated":false}}
+%   data: {"dataType":"text","outputData":{"text":"Loaded: X","truncated":false}}
 %---
